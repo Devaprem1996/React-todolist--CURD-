@@ -18,8 +18,8 @@ function App() {
       <Container maxWidth="xl">
       
         <Header />
-        <Footer />
         <Input />
+        <Footer />
     
       </Container>
     </ThemeProvider>
